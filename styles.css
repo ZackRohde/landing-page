@@ -74,3 +74,13 @@
   width: 300px;
   margin-right: 100px;
 }
+
+.info.container {
+  display: flex;
+  justify-content: center;
+}
+
+.info.container p {
+  display: flex;
+  justify-content:
+}
