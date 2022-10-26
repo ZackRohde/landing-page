@@ -102,8 +102,6 @@
 
 .quote.container4 {
   display: flex;
-  border: 2px solid black;
-  border-radius: 8px;
 }
 
 .quote.container4 {
@@ -121,4 +119,44 @@
 .container4 b {
   margin-top: 10px;
   text-align: right;
+}
+
+.contact.container5 {
+  display: flex;
+  border-radius: 8px;
+  background-color: #3882f6;
+  color: white;
+  margin: 50px 250px;
+  padding: 40px 40px;
+  justify-content: space-around;
+}
+
+.container5 h3 {
+  font-weight: bold;
+}
+
+.container5 p {
+  padding: 2px;
+  padding-bottom: 4px;
+  opacity: 0.8;
+}
+
+.container5 button {
+  display: flex;
+  color: white;
+  background-color: #3882f6;
+  border: solid;
+  border-radius: 8px;
+  font-weight: bold;
+  width: 100px;
+  padding: 5px;
+  justify-content: center;
+}
+
+footer {
+  background-color: navy;
+  color: white;
+  display: flex;
+  justify-content: center;
+  padding: 20px 20px;
 }
